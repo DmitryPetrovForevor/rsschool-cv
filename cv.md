@@ -41,4 +41,4 @@ function getMessage (message) {
 ## Languages
 ***
 * Russian - native speaker.
-* English - B2
+* English - B1
