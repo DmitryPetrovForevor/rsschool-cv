@@ -1,0 +1,7 @@
+h2::after {
+    content: '';
+    margin-top: 5px;
+    display: block;
+    background-color: #dcdcdc;
+    height: 4px;
+}
